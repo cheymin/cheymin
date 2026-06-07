@@ -17,4 +17,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=djklmin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=djklmin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=djklmin)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cheymin)
