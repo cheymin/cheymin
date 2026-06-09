@@ -27,7 +27,7 @@
 <td width="50%">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djklmin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cheymin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="100%"/>
 </div>
 
 </td>
@@ -78,61 +78,32 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERwv/giphy.gif" width="35"> GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djklmin&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djklmin&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheymin&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheymin&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%"/>
 </div>
 
 ### 📊 详细统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djklmin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_title=true&hide=stars,commits,prs,issues" alt="Detailed Stats" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cheymin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_title=true&hide=stars,commits,prs,issues" alt="Detailed Stats" width="30%"/>
 </div>
 
 ### 🏆 GitHub 成就
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=djklmin&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=cheymin&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy" width="100%"/>
 </div>
 
 ### 📅 贡献日历
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/djklmin" alt="GitHub Chart" width="95%"/>
+  <img src="https://ghchart.rshah.org/cheymin" alt="GitHub Chart" width="95%"/>
 </div>
 
 ### 📈 活动图表
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=djklmin&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> 学习路线
-
-<div align="center">
-
-| 阶段 | 技能 | 状态 |
-|:---:|:---:|:---:|
-| 基础 | HTML / CSS / JavaScript | ✅ 已掌握 |
-| 框架 | React / Next.js | 🔄 学习中 |
-| 类型 | TypeScript | 🔄 学习中 |
-| 后端 | Node.js / API | 📅 计划中 |
-| 数据库 | MySQL / MongoDB | 📅 计划中 |
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30"> 名言警句
-
-<div align="center">
-
-> *"Stay hungry, stay foolish."*
-> — Steve Jobs
-
-> *"代码是写给人看的，顺便能在机器上运行。"*
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheymin&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
@@ -143,28 +114,6 @@
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mindjkl)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3139437826@qq.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djklmin)
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 欢迎一起交流学习！
-
-<img src="https://readme-components.vercel.app/api?component=logo&fill=gradient&logo=handshake&logoColor=fff" width="30"/>
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=djklmin&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
-
-<div align="center">
-
-  **感谢你的访问！如果喜欢可以点个 ⭐ 哦~**
-
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=gradient&logo=heart&logoColor=fff" width="25"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cheymin)
 
 </div>
