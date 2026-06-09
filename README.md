@@ -1,20 +1,89 @@
-## Hi there 👋
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World;%E4%BD%A0%E5%A5%BD+%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%E6%88%91%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5%EF%BC%81;%E5%9B%A0%E4%B8%BA%E7%83%AD%E7%88%B1+%E5%A5%94%E8%B5%B4%E5%B1%B1%E6%B5%B7!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Hello+World!+%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD+%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%E6%88%91%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5%EF%BC%81;%E5%9B%A0%E4%B8%BA%E7%83%AD%E7%88%B1+%E5%A5%94%E8%B5%B4%E5%B1%B1%E6%B5%B7!+%E2%9C%A8)](https://git.io/typing-svg)
 
-# 💫 About Me:
-我是一个热爱科技的初中生
-欢迎你的到来!
+</div>
 
+---
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mindjkl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:3139437826@qq.com) 
+<div align="center">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=gradient&logo=github&logoColor=fff&animate=spin" alt="GitHub Logo" width="60"/>
+</div>
 
-# 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=djklmin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=djklmin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=djklmin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 关于我
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cheymin)
+<table>
+<tr>
+<td width="50%">
+
+### 👦 一位热爱科技的初中生
+
+- 🌱 正在学习 **Next.js** 和 **TypeScript**
+- 💡 对新技术充满好奇心
+- 🎯 目标：成为一名优秀的开发者
+- 🤝 欢迎与你交流学习！
+
+</td>
+<td width="50%">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djklmin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="100%"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3bafbf5tdwy&rid=giphy.gif" width="25"> 技术栈
+
+<div align="center">
+
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERwv/giphy.gif" width="35"> GitHub 统计
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djklmin&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djklmin&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=djklmin&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nH21HLq8/giphy.gif" width="30"> 联系我
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mindjkl)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3139437826@qq.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djklmin)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=djklmin&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<div align="center">
+
+  **感谢你的访问！如果喜欢可以点个 ⭐ 哦~**
+
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=gradient&logo=heart&logoColor=fff" width="25"/>
+
+</div>
