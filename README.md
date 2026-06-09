@@ -12,27 +12,12 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 关于我
 
-<table>
-<tr>
-<td width="50%">
-
 ### 👦 一位热爱科技的初中生
 
 - 🌱 正在学习 **Next.js** 和 **TypeScript**
 - 💡 对新技术充满好奇心
 - 🎯 目标：成为一名优秀的开发者
 - 🤝 欢迎与你交流学习！
-
-</td>
-<td width="50%">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheymin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="100%"/>
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -80,18 +65,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheymin&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheymin&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%"/>
-</div>
-
-### 📊 详细统计
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheymin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_title=true&hide=stars,commits,prs,issues" alt="Detailed Stats" width="30%"/>
-</div>
-
-### 🏆 GitHub 成就
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cheymin&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy" width="100%"/>
 </div>
 
 ### 📅 贡献日历
