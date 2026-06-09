@@ -38,14 +38,38 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3bafbf5tdwy&rid=giphy.gif" width="25"> 技术栈
 
+### 🖥️ 前端开发
 <div align="center">
 
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+### 🛠️ 后端 & 数据库
+<div align="center">
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+### ⚙️ 工具 & 平台
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -58,8 +82,57 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djklmin&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%"/>
 </div>
 
+### 📊 详细统计
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djklmin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_title=true&hide=stars,commits,prs,issues" alt="Detailed Stats" width="30%"/>
+</div>
+
+### 🏆 GitHub 成就
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=djklmin&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy" width="100%"/>
+</div>
+
+### 📅 贡献日历
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/djklmin" alt="GitHub Chart" width="95%"/>
+</div>
+
+### 📈 活动图表
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=djklmin&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> 学习路线
+
+<div align="center">
+
+| 阶段 | 技能 | 状态 |
+|:---:|:---:|:---:|
+| 基础 | HTML / CSS / JavaScript | ✅ 已掌握 |
+| 框架 | React / Next.js | 🔄 学习中 |
+| 类型 | TypeScript | 🔄 学习中 |
+| 后端 | Node.js / API | 📅 计划中 |
+| 数据库 | MySQL / MongoDB | 📅 计划中 |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30"> 名言警句
+
+<div align="center">
+
+> *"Stay hungry, stay foolish."*
+> — Steve Jobs
+
+> *"代码是写给人看的，顺便能在机器上运行。"*
+
 </div>
 
 ---
@@ -75,6 +148,14 @@
 </div>
 
 ---
+
+<div align="center">
+
+### 🤝 欢迎一起交流学习！
+
+<img src="https://readme-components.vercel.app/api?component=logo&fill=gradient&logo=handshake&logoColor=fff" width="30"/>
+
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=djklmin&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
